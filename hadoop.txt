@@ -1,0 +1,3 @@
+Gute Anleitung für Erstellung eines Hadoop Knotens
+
+https://data-flair.training/blogs/installation-of-hadoop-3-on-ubuntu/
